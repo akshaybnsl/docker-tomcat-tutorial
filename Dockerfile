@@ -1,4 +1,4 @@
-FROM akshay252/docker-test
+FROM akshay252/docker-test:latest
 LABEL Author="prabu"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
