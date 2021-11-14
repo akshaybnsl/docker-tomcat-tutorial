@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: akshay252/docker-test:latest
+      - image: akshay252/dockertomcat:latest
         imagePullPolicy: Always
         name: myweb
 
